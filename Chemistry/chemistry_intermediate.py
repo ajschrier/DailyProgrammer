@@ -1,0 +1,2 @@
+def preferredSymbol(name):
+	pass
